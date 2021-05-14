@@ -1,0 +1,20 @@
+.numberBtn {
+    width : 33.33%;
+}
+
+.zeroNumberBtn {
+    width : 66.5%;
+}
+
+.numberComponent {
+    width : 76%;
+}
+
+.dotBtn {
+    width : 33.5%;
+}
+
+.clearBtn {
+    width : 99.5%;
+    color : grey;
+}

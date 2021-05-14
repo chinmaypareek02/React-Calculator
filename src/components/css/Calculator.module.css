@@ -1,0 +1,33 @@
+.calculator {
+    height : 200px;
+}
+
+.resultText {
+    background-color : black;
+    height : 80px;
+    width : 290px;
+    color : white;
+    text-align: end;
+    font-size : 40px;
+}
+
+button{
+    border-color: #ff4d4d;
+    background-color : white;
+    line-height : 60px;
+    font-size : 35px;
+}
+
+.secondLine {
+    display: flex;
+}
+
+.operationComponent {
+    width: 25%;
+}
+
+.operationBtn {
+    width : 100%;
+    background-color: #ff4d4d;
+    color : white;
+}
